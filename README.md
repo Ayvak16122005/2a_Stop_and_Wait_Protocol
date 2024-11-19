@@ -1,4 +1,4 @@
-# 2a_Stop_and_Wait_Protocol
+# 1a : IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
